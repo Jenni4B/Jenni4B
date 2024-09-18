@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jenni4B
-- 👀 I’m interested in ...
+- 👀 I’m interested in design
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 😄 Pronouns: she/they
 
