@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jenni4B
-- 👀 I’m interested in design
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 👀 I’m interested in design and art
+- 🌱 I’m currently learning Full Stack Web Development
 - 😄 Pronouns: she/they
 
 <!---
